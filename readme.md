@@ -17,17 +17,16 @@ one of the three. At the end of class one person or pair will share out their so
 
 #### Numbers To Words
 
-- Write a Ruby algorithm that converts integers into English words. Go [here](https://github.com/sf-wdi-29/number-to-words)
+- Write a Ruby algorithm that converts integers into English words. Go [here](https://github.com/den-wdi-1/number-to-words)
 
 ## Exercise 2
 
 #### Pig Latin
 
-- Write a Ruby algorithm that converts English into Pig Latin. Go [here](https://github.com/sf-wdi-29/pig_latin)
+- Write a Ruby algorithm that converts English into Pig Latin. Go [here](https://github.com/den-wdi-1/pig_latin)
 
 ## Exercise 3
 
 #### Roman Numerals
 
-- Write a Ruby algorithm that converts Arabic numbers (3, 56, etc.) into Roman Numerals. Go [here](https://github.com/sf-wdi-29/roman_js)
-- This one has tests using JavaScript and Jasmine, and can be solved in Ruby or JavaScript.
+- Write a Ruby algorithm that converts Arabic numbers (3, 56, etc.) into Roman Numerals. Go [here](https://github.com/den-wdi-1/roman_js)
